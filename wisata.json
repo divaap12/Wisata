@@ -1,0 +1,20 @@
+{"wisata": 
+	[
+		{
+			"id":1,
+			"nama":"Alun-Alun Purwokerto",
+			"gambar_url":"https://jejakpiknik.com/wp-content/uploads/2018/05/Alun-Alun-Purwokerto-2.jpg",
+			"kategori":"Taman",
+			"koordinat":"-6.478927, 107.481261"
+		},
+
+		{
+			"id":2,
+			"nama":"Balai Kumambang",
+			"gambar_url":"https://www.travelblog.id/wp-content/uploads/2019/06/Travelblogid-Gemerlap-Taman-Bale-Kemambang-Saat-Malam.jpeg",
+			"kategori":"Taman",
+			"koordinat":"-6.478927, 107.481261"
+		}
+
+	]
+}
