@@ -8,7 +8,7 @@
 					"nomor_telp":"+628886665130",
 					"kordinat":"-7.3090267, 109.206589",
 					"gambar_url":"https://raw.githubusercontent.com/divaap12/Wisata/master/jenggala.jpg",
-					"tarif":"Rp8.000",
+					"tarif":"Rp8.000/Orang",
 					"jam":"07.00 – 17.00",
 					"kategori":"Curug",
 					"desc":"Curug Jenggala adalah bagian dari kompleks dusun wisata Kalipagu. Lokasinya berada di Jalan Pangeran Limboro, Dusun III Kalipagu, Ketenger, Kecamatan Baturaden, Kabupaten Banyumas, Jawa Tengah. Waktu tempuh dari Purwokerto menuju objek wisata ini sekitar 30 – 45 menit menggunakan kendaraan pribadi. Rutenya adalah Baturaden melalui Jalan Raya Baturaden hingga pertigaan Desa Ketenger, kemudian belok ke arah Curug Bayan. Sampai di Curug Bayan, pilih jalan naik menuju Dusun Kalipagu.",
@@ -18,15 +18,15 @@
 				{
 					"id":2,
 					"nama":"The President",
-					"alamat":"Jl. Dr. Angka No.71, Karangkobar, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
-					"nomor_telp":"+62281634321",
-					"kordinat":"-7.4155654, 109.236551",
+					"alamat":"Hutan Pinus Limpakuwus Jalan Raya Baturraden Timur Km 3,6, Sawah & Hutan, Limpakuwus, Kec. Sumbang, Kabupaten Banyumas, Jawa Tengah 53183",
+					"nomor_telp":"+628886665130",
+					"kordinat":"-7.3075848, 109.2416377",
 					"gambar_url":"https://raw.githubusercontent.com/divaap12/Wisata/master/pinuslipakuwus.jpg",
-					"tarif":"Rp.100.000 - Rp.1.500.000",
-					"jam":"08.30 - 20.30",
-					"kategori":"karaoke",
-					"desc":"Soto Sokaraja atau yang lebih dikenal oleh orang Banyumas dengan sebutan Sroto Sokaraja merupakan salah satu makanan khas Banyumas yang patut dicoba. Berbeda dengan makanan soto dari daerah lain, salah satu ciri khas yang membedakan Soto Sokaraja dengan soto lainnya adalah penggunaan ketupat dan sambel yang terbuat dari kacang. Sambel kacang ini tidak terlalu pedas, sehingga walaupun kita membubuhkan banyak sambel kacang, tidak akan terasa terlalu pedas.",
-					"fasilitas":"Tidak ada keterangan"
+					"tarif":"Rp.15.000/Orang",
+					"jam":"07.00 - 15.30",
+					"kategori":"Alam",
+					"desc":"Hutan Pinus Limpakuwus merupakan satu wisata alam yang berada di lereng selatan Gunung Slamet dan berada di ketinggian sekitar 700 mdpl. Tepatnya di Desa Limpakuwus, Kecamatan Sumbang, Banyumas, Jawa Tengah. Suasana yang syahdu dengan panorama alam yang memukau, membuat Hutan Pinus Limpakuwus bisa jadi pilihan wisata ketika berkunjung ke Banyumas.",
+					"fasilitas":"Kamar mandi, Warung, Mushola"
 				}
 				
 				
