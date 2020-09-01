@@ -27,6 +27,48 @@
 					"kategori":"Alam",
 					"desc":"Hutan Pinus Limpakuwus merupakan satu wisata alam yang berada di lereng selatan Gunung Slamet dan berada di ketinggian sekitar 700 mdpl. Tepatnya di Desa Limpakuwus, Kecamatan Sumbang, Banyumas, Jawa Tengah. Suasana yang syahdu dengan panorama alam yang memukau, membuat Hutan Pinus Limpakuwus bisa jadi pilihan wisata ketika berkunjung ke Banyumas.",
 					"fasilitas":"Kamar mandi, Warung, Mushola"
+				},
+
+				{
+					"id":3,
+					"nama":"Wisata Pagubugan",
+					"alamat":"Dusun I, Melung, Kec. Kedungbanteng, Kabupaten Banyumas, Jawa Tengah 53152",
+					"nomor_telp":"+628112681411",
+					"kordinat":"-7.333623, 109.2055266",
+					"gambar_url":"https://1.bp.blogspot.com/-WHWRneo8VmI/XlZc4_aDYiI/AAAAAAAAF0U/pF8lTqZy0qcJg99VflqrpG42V8UtaV5FQCLcBGAsYHQ/s1600/kolam-renang-tengah-sawah-banyumas.jpg",
+					"tarif":"Rp.7000/Orang",
+					"jam":"07.00 - 17.30",
+					"kategori":"Alam",
+					"desc":"Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa kamu merasakan betapa tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan kamu. Mulai dari trek jogging, outbound, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga Grujugan Bengkok. Di Grujugan Bengkok ini kamu bisa mandi sepuasnya dan airnya sangat jernih, lho! Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD  yang berkunjung. Dan yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.",
+					"fasilitas":"Kolam Renang, Spot Selfie, "
+				},
+
+				{
+					"id":4,
+					"nama":"Bukit Agaran",
+					"alamat":"Dusun Depok, Desa, Dusun III, Melung, Kec. Kedungbanteng, Kabupaten Banyumas, Jawa Tengah 53152",
+					"nomor_telp":"-",
+					"kordinat":"-7.3397378, 109.2056378",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/17-1-by-@biilliiaa-@lulu_luyas-@gensis_uye-740x740.jpg",
+					"tarif":"Rp5.000",
+					"jam":"Buka 24Jam",
+					"kategori":"Alam",
+					"desc":"Ingin menikmati indahnya Purwokerto dari angle lain? Mampir saja ke Bukit Agaran yang menawarkan pemandangan menakjubkan Purwokerto dari atas!. Di bukit ini tersedia banyak sekali spot foto yang bisa kamu manfaatkan untuk berfoto ria. Seperti misalnya replika tangan raksasa dan rumah cinta. Jika cuaca cerah, kamu bisa menikmati pemandangan cantik Gunung Slamet yang berdiri megah dengan begitu jelas. Suasana akan berubah lebih romantis di malam hari karena pemandangan berubah menjadi cahaya kerlap kerlip lampu Purwokerto dari kejauhan.",
+					"fasilitas":"Spot Foto, Tempat Kemah"
+				},
+
+				{
+					"id":5,
+					"nama":"Small World Purwokerto",
+					"alamat":"Jl. Raya Baturaden Barat No.270, Ketenger, Dusun I Karangmangu, Karangmangu, Kec. Baturaden, Purwokerto, Jawa Tengah 53151",
+					"nomor_telp":"0822 3300 0081",
+					"kordinat":"-7.3300512, 109.2225275",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/2-1-by-ari_sug-740x740.jpg",
+					"tarif":"Rp.10.000 - Rp.25.000",
+					"jam":"07.00 - 17.00",
+					"kategori":"Wisata",
+					"desc":"Kapan kamu pernah Piramida, Mesir? Atau mendatangi Menara Pisa, Italia? Atau berpose di depan Gedung Putih? Jika ingin melakukannya, tapi tak memiliki dana yang cukup untuk pergi ke luar negeri, silakan mempertimbangkan untuk melipir ke Small World Purwokerto. Dengan biaya yang jauh lebih murah, kamu sudah bisa berswafoto dengan background bangunan ikon dunia tersebut. Ya, Small World merupakan taman rekreasi miniatur dunia, sekaligus wahana edukasi untuk semua kalangan. kamu bisa menyaksikan menara Petronas, Patung Merlion hingga Big Ben London dalam skala yang jauh lebih kecil. Banyak spot keren dan Instagramable di sini, lokasi yang pas bagi para pemburu swafoto. Ada pula taman dengan beragam bunga yang indah dan berwarna warni. Tapi, awas, jangan sampai rusak ya!",
+					"fasilitas":"Spot Foto Miniatur Dunia"
 				}
 				
 				
