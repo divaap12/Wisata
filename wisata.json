@@ -69,6 +69,76 @@
 					"kategori":"Wisata",
 					"desc":"Kapan kamu pernah Piramida, Mesir? Atau mendatangi Menara Pisa, Italia? Atau berpose di depan Gedung Putih? Jika ingin melakukannya, tapi tak memiliki dana yang cukup untuk pergi ke luar negeri, silakan mempertimbangkan untuk melipir ke Small World Purwokerto. Dengan biaya yang jauh lebih murah, kamu sudah bisa berswafoto dengan background bangunan ikon dunia tersebut. Ya, Small World merupakan taman rekreasi miniatur dunia, sekaligus wahana edukasi untuk semua kalangan. kamu bisa menyaksikan menara Petronas, Patung Merlion hingga Big Ben London dalam skala yang jauh lebih kecil. Banyak spot keren dan Instagramable di sini, lokasi yang pas bagi para pemburu swafoto. Ada pula taman dengan beragam bunga yang indah dan berwarna warni. Tapi, awas, jangan sampai rusak ya!",
 					"fasilitas":"Spot Foto Miniatur Dunia"
+				},
+
+				{
+					"id":6,
+					"nama":"Bukit Watu Meja",
+					"alamat":"Jl. Raya Patikraja - Kebasen, Tumiyang Kidul, Tumiyang, Kec. Kebasen, Kabupaten Banyumas, Jawa Tengah 53172",
+					"nomor_telp":"",
+					"kordinat":"-7.5190126, 109.2123145",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/4-2-by-@her_journeys@renymei14-740x372.jpg",
+					"tarif":"Rp.5.000",
+					"jam":"08.00 - 18.00",
+					"kategori":"Alam",
+					"desc":"Purwokerto memiliki spot istimewa untuk bisa menyaksikan pusat kota dan sekelilingnya dari ketinggian. Spot seru tersebut dinamai Watu Meja. Lokasinya berada di Bukit Badar, desa Tumiyang, Banyumas. Yang ditawarkan adalah lansekap alam perbukitan, Gunung Slamet dan aliran Sungai Serau. Watu Meja menjadi spot yang menarik untuk berswafoto. Batu di pinggiran tebing menjadi salah satu titik yang kerap dijadikan sebagai spot untuk berfoto dengan background di atas. Di waktu tertentu, terutama saat sunset, pemandangan di sini akan sangat menarik karena matahari memberikan pesona terbaiknya.",
+					"fasilitas":"Spot Foto Dengan Background Pemandangan"
+				},
+
+				{
+					"id":7,
+					"nama":"Curug Nangga",
+					"alamat":"Petahunan, Pekuncen, Hutan, Petahunan, Banyumas, Kabupaten Banyumas, Jawa Tengah 53164",
+					"nomor_telp":"+6285741122880",
+					"kordinat":"-7.3677558, 109.0343771",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/2d-1-by-@740aerialvideography-@aam_riyanto-740x472.jpg",
+					"tarif":"Rp.10.000",
+					"jam":"Buka 24Jam",
+					"kategori":"Wisata",
+					"desc":"Ke Banyumas jangan sampai melewatkan air terjun eksotis yang satu ini, ya! Curug Nangga ini memiliki keindahan bebatuan dengan tujuh tingkatan yang membuat air terjun ini terasa spesial. Semua tingkatan di air terjun yang juga disebut-sebut sebagai miniatur air terjun Niagara ini  bisa dijadikan tempat bermain air. Setiap tingkatannya pun cukup lebar sehingga aman untuk tempat bermain air. Namun untuk menuju curug yang satu ini dibutuhkan sedikit usaha karena letaknya yang tidak bisa dijangkau kendaraan. Dari tempat parkir, kamu masih harus berjalan kaki sekitar 2-3 KM untuk bisa sampai di curug. Tapi jangan khawatir karena di sepanjang perjalanan kamu akan dimanjakan dengan pemandangan hijaunya pepohonan serta sawah terasering yang cantik untuk dijadikan tempat berfoto.",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":8,
+					"nama":"Curug Bayan",
+					"alamat":"Dusun II Ketenger, Ketenger, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+					"nomor_telp":"0857 0001 4616",
+					"kordinat":"-7.3239214, 109.2159274",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/1c-2-by-@lovepurwokerto@dsrikencanajati-740x372.jpg",
+					"tarif":"Rp.5.000",
+					"jam":"07.00 - 17.00",
+					"kategori":"Wisata",
+					"desc":"Meninggalkan sejenak hiruk pikuk kota dan menikmati alam di Curug Bayan sepertinya menjadi alternatif yang layak dipertimbangkan. Bagaimana tidak, kamu dan keluarga bisa mendapatkan paket full menghilangkan stres dengan segera. Di Curug Bayan, kamu akan mendapati air terjun dengan debit air yang tidak terlalu besar dan deras. Pas untuk kamu bisa bermain air di bawahnya. Ingin cliff jumping juga bisa, lho! Suasana di sekitar Curug Bayan juga masih natural. kamu bisa merasakan segarnya udara pedesaan, mandi di air yang jernih dan sejuk, dan atmosfer alam yang bisa saja membuat kamu tak ingin kembali ke kota. Dan yang luar biasa, fasilitas di wilayah Curug Bayan terbilang lengkap. Jika ingin menginap pun kamu bisa langsung memilih vila-vila yang keren. Jangan takut kesulitan pula menemukan wilayah ini karena sudah banyak hal yang memudahkan, termasuk petunjuk jalan.",
+					"fasilitas":"Villa dengan harga mulai dari Rp.500.000/malam"
+				},
+
+				{
+					"id":9,
+					"nama":"Sendang Bidadari",
+					"alamat":"Dusun II, Karangsalam, Kec. Baturaden, Kabupaten Banyumas, Jawa Tengah 53151",
+					"nomor_telp":"-",
+					"kordinat":"-7.3189248, 109.2395023",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/1b-3-by-@wildanuraulia@popeye.60-740x372.jpg",
+					"tarif":"Rp.5.000",
+					"jam":"08.00 – 18.00",
+					"kategori":"Wisata",
+					"desc":"Warga lokal meyakini tempat ini sebagai tempat petilasan dan untuk bermeditasi. Jika memang demikian, pemilihan Sendang Bidadari sebagai tempat berkegiatan itu merupakan hal yang tepat. Kok bisa? Jika berkunjung ke sana, kamu akan mendapati tempat dengan pemandangan yang keren, atmosfer yang teduh, suasana yang tenang dan udara yang segar, pas banget untuk bermeditasi. Selain itu, lansekap di sekitar air terjun ini juga instagenic abis. Kapan lagi kamu bisa menyaksikan air terjun, dengan air yang jernih dan menyegarkan, menumpahkan airnya ke dalam sebuah ‘gua’. ‘Gua’ yang dimaksud di sini adalah jalan masuk di antara dua bukit, yang masih berada di wilayah Curug Telu, Baturraden. Tapi apa pun itu, suasananya top banget untuk berswafoto. Pengen sudut pandang yang sedikit berbeda? Boleh juga. Tips kami, coba berfoto di bawah air, dijamin seru dan keren abis!",
+					"fasilitas":"Tidak Ada Keterangan"
+				},
+
+				{
+					"id":10,
+					"nama":"BBPTU HPT Manggala Farm",
+					"alamat":"Dusun 4 Karangnangka, Depok, Karangtengah, Kec. Cilongok, Kabupaten Banyumas, Jawa Tengah 53162",
+					"nomor_telp":"-",
+					"kordinat":"-7.3095495, 109.1778299",
+					"gambar_url":"https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/10-1-BBPTU-HPT-Manggala-Farm-by-anisaahandoko-@-burhn_fadli-740x411.jpg",
+					"tarif":"Rp.5.000",
+					"jam":"08.00 – 18.00 (Sabtu & Minggu tutup)",
+					"kategori":"Wisata",
+					"desc":"Sekarang kamu nggak perlu pergi jauh ke New Zealand untuk melihat peternakan sapi yang bersih dan keren. Ternyata kamu juga bisa menemukannya di Purwokerto lho. Kapan lagi kamu bisa melihat sapi-sapi kelas unggul bebas berkeliaran di area perbukitan dengan rerumputan hijau? Seru deh mengajak anak-anak liburan ke sini untuk menambah pengetahuan mereka mengenai peternakan. Mulai dari pembibitan hingga pemerahan susu sapi bisa dilihat oleh pengunjung. Mau foto-foto? Bisa juga!",
+					"fasilitas":"Tidak Ada Keterangan"
 				}
 				
 				
